@@ -66,4 +66,8 @@ Supabase · PostgreSQL · Unity · C# · Git · GitHub · Vercel
 
 [Conheça o código público do Lume Fit](https://github.com/Naythf/Lume-Fit) · [Meus repositórios públicos](https://github.com/Naythf?tab=repositories)
 
-<!-- Adicionar portfólio e contatos quando o endereço público e os canais profissionais estiverem confirmados. -->
+### Contato
+
+Para oportunidades profissionais ou para conversar sobre meus projetos: **[naythfol123az@gmail.com](mailto:naythfol123az@gmail.com)**.
+
+<!-- Adicionar o link do portfólio quando estiver público. -->
